@@ -1,0 +1,21 @@
+#div1{
+    background-color: yellow;
+}
+#div2{
+    background-color: black;
+}
+#div3{
+    background-color: blue;
+}
+#div4{
+    background-color: cyan;
+}
+div{
+    border:0px;
+    width: 200px;
+    height: 200px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
